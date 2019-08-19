@@ -1,0 +1,14 @@
+/home/holandino/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.deps.json
+/home/holandino/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.json
+/home/holandino/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.dev.json
+/home/holandino/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.dll
+/home/holandino/dev/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.pdb
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csprojAssemblyReference.cache
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csproj.CoreCompileInputs.cache
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cache
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cs
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfoInputs.cache
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfo.cs
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorTargetAssemblyInfo.cache
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.dll
+/home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.pdb
