@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/home/holandino/dev/ProductCatalog/ProductCatalog.csproj": {}
+    "/Users/mac/dev/ProductCatalog/ProductCatalog/ProductCatalog.csproj": {}
   },
   "projects": {
-    "/home/holandino/dev/ProductCatalog/ProductCatalog.csproj": {
+    "/Users/mac/dev/ProductCatalog/ProductCatalog/ProductCatalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/holandino/dev/ProductCatalog/ProductCatalog.csproj",
+        "projectUniqueName": "/Users/mac/dev/ProductCatalog/ProductCatalog/ProductCatalog.csproj",
         "projectName": "ProductCatalog",
-        "projectPath": "/home/holandino/dev/ProductCatalog/ProductCatalog.csproj",
-        "packagesPath": "/home/holandino/.nuget/packages/",
-        "outputPath": "/home/holandino/dev/ProductCatalog/obj/",
+        "projectPath": "/Users/mac/dev/ProductCatalog/ProductCatalog/ProductCatalog.csproj",
+        "packagesPath": "/Users/mac/.nuget/packages/",
+        "outputPath": "/Users/mac/dev/ProductCatalog/ProductCatalog/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/home/holandino/.nuget/NuGet/NuGet.Config"
+          "/Users/mac/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

@@ -4,7 +4,7 @@ using ProductCatalog.Data.Maps;
 
 namespace ProductCatalog.Data
 {
-    public class StoreDataContext:DbContext
+    public class StoreDataContext : DbContext
     {
         public DbSet<Product> Products { get; set; }
 
@@ -12,7 +12,7 @@ namespace ProductCatalog.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=SqlServer2017!");
+            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=reallyStrongPwd123");
         }
 
         protected override void OnModelCreating(ModelBuilder builder)

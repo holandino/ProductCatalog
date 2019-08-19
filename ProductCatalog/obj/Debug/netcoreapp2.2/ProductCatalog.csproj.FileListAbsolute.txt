@@ -12,3 +12,17 @@
 /home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorTargetAssemblyInfo.cache
 /home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.dll
 /home/holandino/dev/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.pdb
+/Users/mac/dev/ProductCatalog/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.deps.json
+/Users/mac/dev/ProductCatalog/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.json
+/Users/mac/dev/ProductCatalog/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.dev.json
+/Users/mac/dev/ProductCatalog/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.dll
+/Users/mac/dev/ProductCatalog/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.pdb
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csprojAssemblyReference.cache
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csproj.CoreCompileInputs.cache
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cache
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cs
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfoInputs.cache
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfo.cs
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorTargetAssemblyInfo.cache
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.dll
+/Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.pdb
