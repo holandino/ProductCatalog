@@ -12,7 +12,7 @@ namespace ProductCatalog.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // Incluido este comentarrio para poder usar no Mac e Linux com facilidade.
+            // Incluido este comentario para poder usar no Mac e Linux com facilidade.
             // optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=reallyStrongPwd123");
             optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=SqlServer2017!");
 
