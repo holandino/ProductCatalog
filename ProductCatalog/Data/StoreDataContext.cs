@@ -12,7 +12,9 @@ namespace ProductCatalog.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=reallyStrongPwd123");
+            // optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=reallyStrongPwd123");
+            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=SqlServer2017!");
+
         }
 
         protected override void OnModelCreating(ModelBuilder builder)
