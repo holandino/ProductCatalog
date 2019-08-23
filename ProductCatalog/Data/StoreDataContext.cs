@@ -12,9 +12,17 @@ namespace ProductCatalog.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // Incluido este comentario para poder usar no Mac e Linux com facilidade.
+            // Incluido este comentario para poder usar no Mac , Linux e Windows com facilidade.
+            //Para o MAc
             // optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=reallyStrongPwd123");
-            optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=SqlServer2017!");
+
+            //Para o Ubuntu
+            //optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=prodcat;User Id=SA;Password=SqlServer2017!");
+
+            //Para o Windows
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Integrated Security=true;Database=prodcat;");
+
+            //Server=(localdb)\MSSQLLocalDB;Integrated Security=true
 
         }
 

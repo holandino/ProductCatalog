@@ -26,3 +26,17 @@
 /Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorTargetAssemblyInfo.cache
 /Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.dll
 /Users/mac/dev/ProductCatalog/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.pdb
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.deps.json
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.runtimeconfig.json
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.runtimeconfig.dev.json
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.dll
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\bin\Debug\netcoreapp2.2\ProductCatalog.pdb
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.csprojAssemblyReference.cache
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.csproj.CoreCompileInputs.cache
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.RazorAssemblyInfo.cache
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.RazorAssemblyInfo.cs
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.AssemblyInfoInputs.cache
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.AssemblyInfo.cs
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.RazorTargetAssemblyInfo.cache
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.dll
+C:\Users\saber\dev\ProductCatalog\ProductCatalog\obj\Debug\netcoreapp2.2\ProductCatalog.pdb

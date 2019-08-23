@@ -1,28 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mac/dev/ProductCatalog/ProductCatalog/ProductCatalog.csproj": {}
+    "C:\\Users\\saber\\dev\\ProductCatalog\\ProductCatalog\\ProductCatalog.csproj": {}
   },
   "projects": {
-    "/Users/mac/dev/ProductCatalog/ProductCatalog/ProductCatalog.csproj": {
+    "C:\\Users\\saber\\dev\\ProductCatalog\\ProductCatalog\\ProductCatalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mac/dev/ProductCatalog/ProductCatalog/ProductCatalog.csproj",
+        "projectUniqueName": "C:\\Users\\saber\\dev\\ProductCatalog\\ProductCatalog\\ProductCatalog.csproj",
         "projectName": "ProductCatalog",
-        "projectPath": "/Users/mac/dev/ProductCatalog/ProductCatalog/ProductCatalog.csproj",
-        "packagesPath": "/Users/mac/.nuget/packages/",
-        "outputPath": "/Users/mac/dev/ProductCatalog/ProductCatalog/obj/",
+        "projectPath": "C:\\Users\\saber\\dev\\ProductCatalog\\ProductCatalog\\ProductCatalog.csproj",
+        "packagesPath": "C:\\Users\\saber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saber\\dev\\ProductCatalog\\ProductCatalog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/mac/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\saber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
